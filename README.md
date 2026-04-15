@@ -90,7 +90,7 @@ Key capabilities include JWT-based authentication, role-based access control (RB
 |---|---|---|---|---|
 | US-14 | Database Schema | Km Khushi | ✅ Complete | Relational schema with foreign keys and constraints |
 | US-15 | React UI | Km Khushi | ✅ Complete | User-friendly responsive interface |
-| US-16 | Azure Deployment | Km Khushi | 🔄 In Progress | Cloud deployment on Azure |
+| US-16 | Azure Deployment | Km Khushi | ✅ Complete | Cloud deployment on Azure |
 
 ---
 
